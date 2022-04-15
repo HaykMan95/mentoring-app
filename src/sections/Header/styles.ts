@@ -23,7 +23,7 @@ const useStyles = createUseStyles(
       color: '#386A74',
       fontWeight: 'bold',
       fontSize: 25,
-    }
+    },
   },
   { name: 'header-section' },
 );

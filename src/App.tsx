@@ -16,7 +16,6 @@ function App() {
 
   return (
     <Store.Provider value={{ state, dispatch }}>
-
       <div className="App">
         <BrowserRouter>
           <Header />

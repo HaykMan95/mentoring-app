@@ -23,8 +23,8 @@ const useStyles = createUseStyles(
       '&.active': {
         color: '#383974',
         boxShadow: '0 26px 11px -13px #060606',
-      }
-    }
+      },
+    },
   },
   { name: 'header-section' },
 );

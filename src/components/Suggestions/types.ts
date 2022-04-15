@@ -1,4 +1,4 @@
-import { ISuggestions } from "types";
+import { ISuggestions } from 'types';
 
 export interface ISuggestionsProps {
   list?: ISuggestions[];

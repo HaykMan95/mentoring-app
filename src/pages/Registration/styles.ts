@@ -25,7 +25,7 @@ const useStyles = createUseStyles(
       height: '100%',
       display: 'flex',
       justifyContent: 'space-evenly',
-    }
+    },
   },
   { name: 'header-section' },
 );

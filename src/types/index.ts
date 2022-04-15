@@ -18,5 +18,5 @@ export interface ISuggestions {
 
 export interface IUser extends IRegistrationInfo {
   id: string;
-  suggestions?: ISuggestions[],
-};
+  suggestions?: ISuggestions[];
+}
